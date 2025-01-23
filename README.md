@@ -111,9 +111,9 @@ Once the app is launched, you'll be able to:
 ![p33](https://github.com/user-attachments/assets/f1ad90cd-c3b3-429a-b7cf-8e89c213a75a)
 ![p44](https://github.com/user-attachments/assets/7b48470c-a9c5-4210-97ee-2b1757792d14)
 ![p55](https://github.com/user-attachments/assets/6c5f6ef4-989c-4a63-a434-320660601b75)
-![p66](https://github.com/user-attachments/assets/0efe28e6-c9da-4044-a2c1-e76f1be37ef2)
-![p77](https://github.com/user-attachments/assets/423e4738-162f-4a2a-808d-ad86c8e0b95e)
-![p88](https://github.com/user-attachments/assets/502024a8-6659-4d0b-a015-bd051c00490e)
+![111](https://github.com/user-attachments/assets/743921ed-9f5a-41d4-ab3b-05212aed8e1c)
+![222](https://github.com/user-attachments/assets/3c8dd86c-d6dc-48e5-9d31-663f22e7078d)
+![333](https://github.com/user-attachments/assets/d8f4f366-f03c-4cbf-ac9f-187331a2374c)
 
 ---
 
