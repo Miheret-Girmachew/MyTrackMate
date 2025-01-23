@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "436163422471",
+    "project_id": "trackmate-106e0",
+    "storage_bucket": "trackmate-106e0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436163422471:android:d7b5e4ceedeb50a74bbda2",
+        "android_client_info": {
+          "package_name": "com.company.newtrackmatee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436163422471-trj2o8dimh37dbb02ejqph72t1vsqkju.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.company.newtrackmatee",
+            "certificate_hash": "3052961a565087834d76f240142e301e6d8130f0"
+          }
+        },
+        {
+          "client_id": "436163422471-o72jnmv359l1is32eeabhue77fnbi39c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNPrcqbTytJbCkHB-xAGo_7YwjzRS4Jv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436163422471-o72jnmv359l1is32eeabhue77fnbi39c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
